@@ -250,3 +250,14 @@ p45 {
     color: white;
     
 }
+
+.foo_img1 {
+    text-align: center;
+    width: viewpot;
+}
+
+.foo_img2 {
+    text-align: center;
+    object-fit: contain ;
+}
+
